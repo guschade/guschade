@@ -23,7 +23,7 @@ Sou um desenvolvedor de software apaixonado, sempre em busca de aprender e const
 ## 📫 Como me encontrar
 
 - LinkedIn: [Gustavo Schade](https://www.linkedin.com/in/gustavo-schade/)
-- Email: [guschade@example.com](mailto:gustavoschade@gmail.com)
+- Email: [gustavoschade@gmail.com](mailto:gustavoschade@gmail.com)
 
 ## 💡 Projetos
 
